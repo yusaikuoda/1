@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 900" role="img" aria-label="Abstract financial research chart background">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop stop-color="#0b1412"/>
+      <stop offset="1" stop-color="#1a554d"/>
+    </linearGradient>
+    <pattern id="p" width="90" height="90" patternUnits="userSpaceOnUse">
+      <path d="M90 0H0v90" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="1800" height="900" fill="url(#g)"/>
+  <rect width="1800" height="900" fill="url(#p)"/>
+  <path d="M230 610 370 530 520 470 650 498 785 505 910 520 1010 570 1130 535 1220 470 1360 435 1480 355 1585 310 1690 345" fill="none" stroke="#2abf96" stroke-width="12" stroke-opacity=".8"/>
+  <g fill="#e8efeb" opacity=".78">
+    <circle cx="230" cy="610" r="9"/>
+    <circle cx="520" cy="470" r="9"/>
+    <circle cx="1010" cy="570" r="9"/>
+    <circle cx="1360" cy="435" r="9"/>
+    <circle cx="1690" cy="345" r="9"/>
+  </g>
+  <g fill="#ffffff" opacity=".62" font-family="Consolas, monospace">
+    <text x="1120" y="210" font-size="30">FIELD NOTE</text>
+    <text x="1120" y="270" font-size="44" font-weight="700">PUBLIC COMPANY NOTES</text>
+    <text x="1120" y="325" font-size="28">bull case / bear case / sources</text>
+    <text x="1120" y="375" font-size="28">no paid promotion</text>
+    <text x="1220" y="620" font-size="24">SOURCE-LINKED RESEARCH</text>
+    <text x="1220" y="675" font-size="42" font-weight="700">filings first</text>
+  </g>
+</svg>
